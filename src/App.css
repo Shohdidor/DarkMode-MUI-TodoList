@@ -1,0 +1,16 @@
+.Back{
+    background-image: url('/img/bg.png');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+}
+
+
+.Sky{
+    background-image: url('/img/signup-bg\ 1.png');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 50vh;
+}
